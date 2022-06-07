@@ -11,7 +11,7 @@ Technologie:
 
 
 
-https://github.com/BartoszLukaszek/WPF-Projekt-Lukaszek
+https://github.com/BartoszLukaszek/Lukaszek-projekt-WPF
 
 Zdjęcie poglądowe 
 
